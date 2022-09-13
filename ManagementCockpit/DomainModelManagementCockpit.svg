@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0734524"
-     inkscape:cx="722.32642"
-     inkscape:cy="409.24494"
+     inkscape:zoom="1.5180909"
+     inkscape:cx="745.76016"
+     inkscape:cy="236.66474"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -315,12 +315,12 @@
            x="131.3519"
            y="584.09674" /></flowRegion><flowPara
          id="flowPara2133"></flowPara></flowRoot>    <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.36030874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.49922884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1689-7"
-       width="51.41983"
-       height="42.839973"
-       x="16.068253"
-       y="241.07298" />
+       width="99.035515"
+       height="42.701054"
+       x="16.137712"
+       y="241.14244" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29166667px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -348,8 +348,8 @@
          style="stroke-width:0.26458332"
          id="tspan2158">abgerichtet werden soll</tspan></text>
     <image
-       y="220.49916"
-       x="77.197441"
+       y="251.52223"
+       x="104.38619"
        id="image2168"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfgAAAK0CAYAAADvWi/1AAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsvcmLbV925/fZe5/29jfixXu/JlOZqUpJBR5YogwF9sxgPDGeGIrywOCBwQODB8bgiUEI45HB
@@ -3186,43 +3186,43 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="79.612679"
-       y="220.59155"
+       x="129.45872"
+       y="261.02609"
        id="text2173"><tspan
          sodipodi:role="line"
          id="tspan2171"
-         x="79.612679"
-         y="220.59155"
-         style="stroke-width:0.26458332">UPC Modem</tspan></text>
+         x="129.45872"
+         y="261.02609"
+         style="font-weight:bold;stroke-width:0.26458332">UPC Modem</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="102.04226"
-       y="236.85916"
+       x="129.23102"
+       y="267.88223"
        id="text2177"><tspan
          sodipodi:role="line"
          id="tspan2175"
-         x="102.04226"
-         y="236.85916"
+         x="129.23102"
+         y="267.88223"
          style="stroke-width:0.26458332"><tspan
    style="fill:#808000"
    id="tspan2181"><tspan
    style="fill:#008000"
    id="tspan2191">Grün leuchtend</tspan> </tspan>= normal aber auch nicht unschuldig</tspan><tspan
          sodipodi:role="line"
-         x="102.04226"
-         y="241.26889"
+         x="129.23102"
+         y="272.29196"
          style="stroke-width:0.26458332"
          id="tspan2185"><tspan
    style="fill:#808000"
-   id="tspan2187">Gelb Blinkend</tspan> = Noch am HFC angeschlossen</tspan><tspan
+   id="tspan2187">Gelb blinkend</tspan> = Noch am HFC angeschlossen</tspan><tspan
          sodipodi:role="line"
-         x="102.04226"
-         y="245.6786"
+         x="129.23102"
+         y="276.70169"
          style="stroke-width:0.26458332"
          id="tspan2179"><tspan
    style="fill:#ff0000"
-   id="tspan2183">Rot Blinkend</tspan> = Offline</tspan></text>
+   id="tspan2183">Rot blinkend</tspan> = Offline</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2195"
@@ -3233,37 +3233,60 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
            height="167.68326"
            x="830.03217"
            y="177.93059" /></flowRegion><flowPara
-         id="flowPara2201"></flowPara></flowRoot>    <g
-       id="g2218"
-       transform="translate(-9.8591549,-23.908451)">
+         id="flowPara2201"></flowPara></flowRoot>    <rect
+       style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.52775186;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2203"
+       width="38.373501"
+       height="27.186651"
+       x="217.41138"
+       y="114.44542" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.80327845px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14508195"
+       x="236.9664"
+       y="121.07106"
+       id="text2207"><tspan
+         sodipodi:role="line"
+         id="tspan2205"
+         x="236.9664"
+         y="121.07106"
+         style="text-align:center;text-anchor:middle;stroke-width:0.14508195">Schweizer</tspan><tspan
+         id="tspan2303"
+         sodipodi:role="line"
+         x="236.9664"
+         y="127.16451"
+         style="text-align:center;text-anchor:middle;stroke-width:0.14508195">Armee</tspan><tspan
+         sodipodi:role="line"
+         x="236.9664"
+         y="133.25795"
+         style="text-align:center;text-anchor:middle;stroke-width:0.14508195"
+         id="tspan2209">Glasfaser</tspan><tspan
+         sodipodi:role="line"
+         x="236.9664"
+         y="139.35138"
+         style="text-align:center;text-anchor:middle;stroke-width:0.14508195"
+         id="tspan2211">Netzwerk</tspan></text>
+    <g
+       id="g2371"
+       transform="translate(-1.8485916,-1.2323944)">
       <rect
-         y="138.35387"
-         x="229.38718"
-         height="27.186651"
-         width="38.373501"
-         id="rect2203"
-         style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.52775186;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.63204056;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1522-0"
+         width="83.334106"
+         height="19.151915"
+         x="149.32425"
+         y="47.107151" />
       <text
-         id="text2207"
-         y="147.41953"
-         x="249.29077"
-         style="font-style:normal;font-weight:normal;font-size:5.80327845px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14508195"
-         xml:space="preserve"><tspan
-           style="text-align:center;text-anchor:middle;stroke-width:0.14508195"
-           y="147.41953"
-           x="249.29077"
-           id="tspan2205"
-           sodipodi:role="line">VBS</tspan><tspan
-           id="tspan2209"
-           style="text-align:center;text-anchor:middle;stroke-width:0.14508195"
-           y="153.51297"
-           x="249.29077"
-           sodipodi:role="line">Glasfaser</tspan><tspan
-           id="tspan2211"
-           style="text-align:center;text-anchor:middle;stroke-width:0.14508195"
-           y="159.60641"
-           x="249.29077"
-           sodipodi:role="line">Netzwerk</tspan></text>
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.33413124px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15835328"
+         x="189.3363"
+         y="58.492718"
+         id="text1526-9"><tspan
+           sodipodi:role="line"
+           x="189.3363"
+           y="58.492718"
+           style="text-align:center;text-anchor:middle;stroke-width:0.15835328"
+           id="tspan1532-6">NSA / CIA / US Army</tspan></text>
     </g>
     <g
        id="g2246"
@@ -3393,5 +3416,46 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
            x="189.88936"
            sodipodi:role="line">Netzwerk</tspan></text>
     </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.27505693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 236.5073,141.94467 v 12.99276 h 31.05905 v 11.85916"
+       id="path2295"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 246.09307,154.86905 v 12.28723"
+       id="path2297"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2299"
+       d="m 236.5073,141.94467 v 12.99276 h -31.05905 v 11.85916"
+       style="fill:none;stroke:#000000;stroke-width:0.27505693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2301"
+       d="m 226.31151,154.78191 v 12.28723"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2299-2"
+       d="M 188.98141,65.207841 V 84.741595 H 142.28619 V 102.57106"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 226.05008,179.87922 v 39.9117 H 123.04654 v 36.42595"
+       id="path2373"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="121.12939"
+       y="284.97418"
+       id="text2377"><tspan
+         sodipodi:role="line"
+         id="tspan2375"
+         x="121.12939"
+         y="284.97418"
+         style="font-weight:bold;fill:#ff0000;stroke-width:0.26458332">Mit SDR für Brainjacking</tspan></text>
   </g>
 </svg>
