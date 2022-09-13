@@ -20,17 +20,32 @@
   <defs
      id="defs971">
     <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker4234"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4232" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker4180"
        style="overflow:visible;"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path4178"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
          transform="scale(0.4) rotate(180) translate(10,0)" />
     </marker>
     <marker
@@ -44,7 +59,7 @@
        inkscape:collect="always">
       <path
          transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         style="fill-rule:evenodd;stroke:#deaa87;stroke-width:1pt;stroke-opacity:1;fill:#deaa87;fill-opacity:1"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path4026" />
     </marker>
@@ -141,9 +156,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="56.986953"
-     inkscape:cy="511.45446"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="374.55162"
+     inkscape:cy="437.91063"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -175,20 +190,29 @@
        width="297.78235"
        height="210.45534"
        x="-0.34857377"
-       y="86.810028" />
+       y="86.810028"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <rect
        style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.60448736;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1522"
        width="56.969959"
        height="25.625572"
        x="59.674961"
-       y="128.18178" />
+       y="128.18178"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.65866423px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0664666"
        x="88.320877"
        y="135.35236"
-       id="text1526"><tspan
+       id="text1526"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan1524"
          x="88.320877"
@@ -215,35 +239,47 @@
          style="text-align:center;text-anchor:middle;stroke-width:0.0664666"
          id="tspan2396">Basis des <tspan
    style="font-weight:bold;stroke-width:0.0664666"
-   id="tspan3798">Terror-Netzwerk</tspan> bestehend</tspan><tspan
+   id="tspan3798">Terror-Netzwerks</tspan> bestehend</tspan><tspan
          sodipodi:role="line"
          x="88.320877"
          y="148.64568"
          style="text-align:center;text-anchor:middle;stroke-width:0.0664666"
-         id="tspan2398">aus Versicherungs Agenten</tspan></text>
+         id="tspan2398">aus Versicherungs-Agenten</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.27507302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1689"
        width="54.653442"
        height="23.49139"
        x="9.3475523"
-       y="162.09378" />
+       y="162.09378"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.2,0.3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 22.831581,178.48492 0,31.8945"
        id="path2907"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <rect
        style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.3101829;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1534"
        width="21.781477"
        height="10.586683"
        x="12.505546"
-       y="167.42377" />
+       y="167.42377"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <g
        id="g1615"
-       transform="matrix(0.55014602,0,0,0.55014602,9.7310869,69.845765)">
+       transform="matrix(0.55014602,0,0,0.55014602,9.7310869,69.845765)"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999">
       <rect
          y="177.40327"
          x="49.04723"
@@ -281,7 +317,10 @@
     </g>
     <g
        id="g1629"
-       transform="matrix(0.55014602,0,0,0.55014602,10.313325,70.428004)">
+       transform="matrix(0.55014602,0,0,0.55014602,10.313325,70.428004)"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999">
       <rect
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56381923;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1617"
@@ -323,13 +362,19 @@
        width="21.781477"
        height="10.586683"
        x="37.878704"
-       y="168.60794" />
+       y="168.60794"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:1.9407928px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14555946"
        x="48.739571"
        y="171.11351"
-       id="text1637"><tspan
+       id="text1637"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          x="48.739571"
          y="171.11351"
@@ -345,7 +390,10 @@
        style="font-style:normal;font-weight:normal;font-size:5.82237864px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14555946"
        x="42.143131"
        y="178.5592"
-       id="text1641"><tspan
+       id="text1641"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan1639"
          x="42.143131"
@@ -356,7 +404,10 @@
        style="font-style:normal;font-weight:normal;font-size:1.9407928px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14555946"
        x="23.366413"
        y="169.92934"
-       id="text1538"><tspan
+       id="text1538"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          x="23.366413"
          y="169.92934"
@@ -372,7 +423,10 @@
        style="font-style:normal;font-weight:normal;font-size:5.82237864px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14555946"
        x="19.838224"
        y="177.56679"
-       id="text1548"><tspan
+       id="text1548"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan1546"
          x="19.838224"
@@ -381,7 +435,10 @@
     <g
        id="g1657"
        transform="matrix(0.55014602,0,0,0.55014602,11.4778,71.592479)"
-       style="fill:#00ff00">
+       style="fill:#00ff00"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999">
       <rect
          style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.56381923;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1645"
@@ -422,7 +479,10 @@
        style="font-style:normal;font-weight:normal;font-size:1.41643536px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11803626"
        x="49.457092"
        y="171.27196"
-       id="text1637-6"><tspan
+       id="text1637-6"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          x="49.68256"
          y="171.27196"
@@ -443,7 +503,10 @@
        style="font-style:normal;font-weight:normal;font-size:3.9257834px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09814458"
        x="44.362286"
        y="179.024"
-       id="text1641-1"><tspan
+       id="text1641-1"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan1639-2"
          x="44.362286"
@@ -460,32 +523,44 @@
            x="131.3519"
            y="584.09674" /></flowRegion><flowPara
          id="flowPara2133"></flowPara></flowRoot>    <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.27464876;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.27464876;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2892"
        width="54.483994"
        height="23.491816"
        x="11.44268"
-       y="214.14429" />
+       y="214.14429"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <rect
        y="212.30574"
        x="13.281255"
        height="23.491816"
        width="54.483994"
        id="rect2890"
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.27464876;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.27464876;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <rect
        style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.27464876;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1689-7"
        width="54.483994"
        height="23.491816"
        x="15.73269"
-       y="210.46719" />
+       y="210.46719"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.91118932px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14555946"
        x="18.516132"
        y="215.02632"
-       id="text2152"><tspan
+       id="text2152"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan2150"
          x="18.516132"
@@ -516,7 +591,10 @@
        d="m 133.03837,170.33219 v 25.61983 H 74.538073 v 15.22388"
        id="path2373"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <image
        y="209.82767"
        x="64.282242"
@@ -3352,13 +3430,19 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="18.543169"
-       width="13.505431" />
+       width="13.505431"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:1.9407928px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14555946"
        x="78.075798"
        y="215.05612"
-       id="text2173"><tspan
+       id="text2173"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan2171"
          x="78.075798"
@@ -3369,7 +3453,10 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
        style="font-style:normal;font-weight:normal;font-size:1.9407928px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14555946"
        x="77.950523"
        y="218.8279"
-       id="text2177"><tspan
+       id="text2177"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan2175"
          x="77.950523"
@@ -3405,7 +3492,10 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
            y="177.93059" /></flowRegion><flowPara
          id="flowPara2201"></flowPara></flowRoot>    <g
        id="g2371"
-       transform="matrix(0.55014602,0,0,0.55014602,5.8375943,70.989551)">
+       transform="matrix(0.55014602,0,0,0.55014602,5.8375943,70.989551)"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999">
       <rect
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.63204056;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1522-0"
@@ -3427,7 +3517,10 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
     </g>
     <g
        id="g2246"
-       transform="matrix(0.25658161,0,0,0.25658161,71.457771,118.4582)">
+       transform="matrix(0.25658161,0,0,0.25658161,71.457771,118.4582)"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999">
       <rect
          style="opacity:1;vector-effect:none;fill:#00aad4;fill-opacity:1;stroke:#000000;stroke-width:0.52775186;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect2220"
@@ -3459,7 +3552,10 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
     </g>
     <g
        id="g2258"
-       transform="matrix(0.25658161,0,0,0.25658161,82.759318,118.4582)">
+       transform="matrix(0.25658161,0,0,0.25658161,82.759318,118.4582)"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999">
       <rect
          y="175.81866"
          x="169.98576"
@@ -3491,7 +3587,10 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
     </g>
     <g
        transform="matrix(0.25658161,0,0,0.25658161,94.060854,118.4582)"
-       id="g2270">
+       id="g2270"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999">
       <rect
          style="opacity:1;vector-effect:none;fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.52775186;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect2260"
@@ -3523,7 +3622,10 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
     </g>
     <g
        id="g2282"
-       transform="matrix(0.25658161,0,0,0.25658161,105.36239,118.4582)">
+       transform="matrix(0.25658161,0,0,0.25658161,105.36239,118.4582)"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999">
       <rect
          y="175.81866"
          x="169.98576"
@@ -3557,83 +3659,113 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 136.96815,149.75785 v 7.14792 h 17.08701 v 6.52426"
        id="path2295"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 142.24171,156.86814 v 6.75977"
        id="path2297"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <path
        inkscape:connector-curvature="0"
        id="path2299"
        d="m 136.96815,149.75785 v 7.14792 h -17.08702 v 6.52426"
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <path
        inkscape:connector-curvature="0"
        id="path2301"
        d="m 131.35897,156.93185 2.8e-4,6.64812"
        style="fill:#d38d5f;fill-opacity:1;stroke:#d38d5f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <path
        inkscape:connector-curvature="0"
        id="path2299-2"
        d="m 110.8405,107.55958 v 9.94559 H 85.114827 v 9.07785"
-       style="fill:none;stroke:#000000;stroke-width:0.52962631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4180)" />
+       style="fill:none;stroke:#000000;stroke-width:0.52962631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4180)"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.98003364px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22350253"
-       x="73.398048"
-       y="229.0352"
-       id="text2377"><tspan
+       x="78.292839"
+       y="230.22583"
+       id="text2377"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan2375"
-         x="73.398048"
-         y="229.0352"
+         x="78.292839"
+         y="230.22583"
          style="font-weight:bold;fill:#ff0000;stroke-width:0.22350253">Modem mit SDR für Brainjacking</tspan></text>
     <path
        style="fill:none;stroke:#d38d5f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 116.96128,140.95496 h 9.49195"
        id="path2400"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <rect
        style="opacity:1;vector-effect:none;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.32319564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2203"
        width="23.499962"
        height="16.649126"
        x="125.26813"
-       y="133.78299" />
+       y="133.78299"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.19265056px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07981626"
        x="137.22072"
        y="138.27431"
-       id="text2207"><tspan
+       id="text2207"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan2205"
          x="137.22072"
          y="138.27431"
-         style="text-align:center;text-anchor:middle;stroke-width:0.07981626;fill:#ffff00">Schweizer</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.07981626;fill:#ffff00;font-weight:bold">Schweizer</tspan><tspan
          id="tspan2303"
          sodipodi:role="line"
          x="137.22072"
          y="141.62659"
-         style="text-align:center;text-anchor:middle;stroke-width:0.07981626;fill:#ffff00">Armee</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.07981626;fill:#ffff00;font-weight:bold">Armee</tspan><tspan
          sodipodi:role="line"
          x="137.22072"
          y="144.97887"
-         style="text-align:center;text-anchor:middle;stroke-width:0.07981626;fill:#ffff00"
+         style="text-align:center;text-anchor:middle;stroke-width:0.07981626;fill:#ffff00;font-weight:bold"
          id="tspan2209">Glasfaser</tspan><tspan
          sodipodi:role="line"
          x="137.22072"
          y="148.33116"
-         style="text-align:center;text-anchor:middle;stroke-width:0.07981626;fill:#ffff00"
+         style="text-align:center;text-anchor:middle;stroke-width:0.07981626;fill:#ffff00;font-weight:bold"
          id="tspan2211">Netzwerk</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.37468243px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05936706"
        x="119.40052"
        y="127.89437"
-       id="text2404"><tspan
+       id="text2404"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan2402"
          x="119.40052"
@@ -3654,31 +3786,46 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
        id="path2799"
        d="m 64.019838,177.529 h 65.901292 v -6.98337"
        style="fill:none;stroke:#d38d5f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <path
        sodipodi:nodetypes="ccc"
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 64.135087,180.9808 H 142.91129 V 170.64152"
        id="path2801"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <path
        inkscape:connector-curvature="0"
        id="path2803"
        d="M 63.872579,184.3023 H 154.09972 V 170.65142"
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <path
        sodipodi:nodetypes="ccc"
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 64.029799,173.84459 H 120.1718 v -3.30976"
        id="path2814"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.91118932px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14555946"
        x="71.479889"
        y="172.44917"
-       id="text2818"><tspan
+       id="text2818"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan2816"
          x="71.479889"
@@ -12596,7 +12743,10 @@ IiIiIqIN4f8DaxpXPv5LF1sAAAAASUVORK5CYII=
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="42.744659"
-       width="86.846291" />
+       width="86.846291"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -12873,7 +13023,10 @@ gg==
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="16.62689"
-       width="50.355721" />
+       width="50.355721"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <image
        y="254.48624"
        x="136.16106"
@@ -16660,7 +16813,10 @@ Dyj71axjAAAAAElFTkSuQmCC
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="42.779144"
-       width="74.805054" />
+       width="74.805054"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <image
        y="187.17265"
        x="38.270977"
@@ -19761,7 +19917,10 @@ QmCC
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="16.173309"
-       width="32.86005" />
+       width="32.86005"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <image
        y="364.12241"
        x="-19.009573"
@@ -29050,14 +29209,20 @@ uxQKhUKhdBz/D7UApaXtmJnNAAAAAElFTkSuQmCC
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="151.58202"
-       width="116.05499" />
+       width="116.05499"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <rect
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2894"
        width="13.696623"
        height="3.17731"
        x="211.43954"
-       y="101.81101" />
+       y="101.81101"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <image
        y="187.17265"
        x="9.3475523"
@@ -34318,34 +34483,47 @@ kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkv6f/A9t
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="16.156445"
-       width="28.923428" />
+       width="28.923428"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.97202945px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.09930074"
-       x="3.2879241"
-       y="98.892708"
-       id="text3459"><tspan
+       style="font-style:normal;font-weight:normal;font-size:3.70379782px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.09259495"
+       x="4.2381673"
+       y="99.475578"
+       id="text3459"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan3457"
-         x="3.2879241"
-         y="98.892708"
-         style="fill:#ff0000;stroke-width:0.09930074">Die Schweizer Armee hat</tspan><tspan
+         x="4.2381673"
+         y="99.475578"
+         style="fill:#ff0000;stroke-width:0.09259495">Die <tspan
+   style="font-weight:bold;stroke-width:0.09259495"
+   id="tspan4302">Schweizer Armee</tspan> hat</tspan><tspan
          sodipodi:role="line"
-         x="3.2879241"
-         y="103.06334"
-         style="fill:#ff0000;stroke-width:0.09930074"
+         x="4.2381673"
+         y="103.36456"
+         style="fill:#ff0000;stroke-width:0.09259495"
          id="tspan3461">das hier VERSIFFT oder nimmt</tspan><tspan
          sodipodi:role="line"
-         x="3.2879241"
-         y="107.23397"
-         style="fill:#ff0000;stroke-width:0.09930074"
-         id="tspan3463">Mordaufträge vom NSA / CIA an</tspan></text>
+         x="4.2381673"
+         y="107.25356"
+         style="fill:#ff0000;stroke-width:0.09259495"
+         id="tspan3463"><tspan
+   style="font-weight:bold;stroke-width:0.09259495"
+   id="tspan4316">Mordaufträge</tspan> vom NSA / CIA an</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.02608299px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.55065209;"
        x="66.147003"
        y="108.57999"
-       id="text3467"><tspan
+       id="text3467"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan3465"
          x="66.147003"
@@ -35546,7 +35724,10 @@ Nf8PuVeOrVDj1NUAAAAASUVORK5CYII=
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="30.48476"
-       width="75.862335" />
+       width="75.862335"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <image
        y="233.1368"
        x="105.89993"
@@ -35670,28 +35851,40 @@ AsHpIUJFIBCcHiJUBALB6SFCRSAQnB4iVAQCwen5f+SHl7YMHnBQAAAAAElFTkSuQmCC
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="9.0347185"
-       width="22.750401" />
+       width="22.750401"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <rect
        style="opacity:1;vector-effect:none;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.19999998, 0.29999999999999999;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3503"
        width="123.74369"
        height="4.7057457"
        x="169.75542"
-       y="91.167198" />
+       y="91.167198"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <rect
        style="opacity:1;vector-effect:none;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:0.34011889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.36047546, 0.34011887;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3503-4"
        width="6.1000462"
        height="122.69797"
        x="287.92194"
-       y="93.345657" />
+       y="93.345657"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.14124298px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.40353101"
        x="-240.06744"
        y="108.32751"
        id="text3467-9"
-       transform="scale(-1,1)"><tspan
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan3465-5"
          x="-240.06744"
@@ -35701,19 +35894,28 @@ AsHpIUJFIBCcHiJUBALB6SFCRSAQnB4iVAQCwen5f+SHl7YMHnBQAAAAAElFTkSuQmCC
        style="fill:#d38d5f;fill-opacity:1;stroke:#d38d5f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 136.96815,150.28702 v 6.75977"
        id="path4090"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <path
        inkscape:connector-curvature="0"
        id="path4092"
        d="m 136.96505,156.91303 -5.59148,-0.007"
        style="fill:#d38d5f;fill-opacity:1;stroke:#d38d5f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:1.76388884px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="10.31875"
        y="164.31146"
-       id="text4212"><tspan
+       id="text4212"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999"><tspan
          sodipodi:role="line"
          id="tspan4210"
          x="10.31875"
@@ -35724,5 +35926,13 @@ AsHpIUJFIBCcHiJUBALB6SFCRSAQnB4iVAQCwen5f+SHl7YMHnBQAAAAAElFTkSuQmCC
          y="166.51633"
          style="stroke-width:0.26458332;fill:#ff0000;"
          id="tspan4214">die Kaltblütig und Ingorant machen</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4234)"
+       d="m 77.787499,229.20053 h -5.953125 v -3.00964"
+       id="path4224"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/marc/hackerscardgame-notes-s22m09/DomianModelCyberWarSchweizerArmeeUndZurichVersicherung.png"
+       inkscape:export-xdpi="241.89999"
+       inkscape:export-ydpi="241.89999" />
   </g>
 </svg>
