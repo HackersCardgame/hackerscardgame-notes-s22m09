@@ -20,6 +20,106 @@
   <defs
      id="defs971">
     <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4180"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4178"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker4028"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4026" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker3964"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#deaa87;stroke-width:1pt;stroke-opacity:1;fill:#deaa87;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3962" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3906"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path3904"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#deaa87;stroke-width:1pt;stroke-opacity:1;fill:#deaa87;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2918"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#deaa87;stroke-width:1pt;stroke-opacity:1;fill:#deaa87;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2924"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#deaa87;stroke-width:1pt;stroke-opacity:1;fill:#deaa87;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3540"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path3538"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0.0"
@@ -41,9 +141,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1469048"
-     inkscape:cx="595.65504"
-     inkscape:cy="546.32406"
+     inkscape:zoom="2"
+     inkscape:cx="56.986953"
+     inkscape:cy="511.45446"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,7 +177,7 @@
        x="-0.34857377"
        y="86.810028" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.60448736;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.60448736;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1522"
        width="56.969959"
        height="25.625572"
@@ -85,40 +185,42 @@
        y="128.18178" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.4846971px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08711743"
-       x="88.317848"
-       y="133.51515"
+       style="font-style:normal;font-weight:normal;font-size:2.65866423px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0664666"
+       x="88.320877"
+       y="135.35236"
        id="text1526"><tspan
          sodipodi:role="line"
          id="tspan1524"
-         x="88.317848"
-         y="133.51515"
-         style="text-align:center;text-anchor:middle;stroke-width:0.08711743">Straffälliges</tspan><tspan
+         x="88.320877"
+         y="135.35236"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0664666">Straffälliges</tspan><tspan
          sodipodi:role="line"
-         x="88.317848"
-         y="136.99985"
-         style="text-align:center;text-anchor:middle;stroke-width:0.08711743"
+         x="88.320877"
+         y="138.01102"
+         style="font-weight:bold;text-align:center;text-anchor:middle;stroke-width:0.0664666"
          id="tspan1528">ManagementCockpit</tspan><tspan
          sodipodi:role="line"
-         x="88.317848"
-         y="140.48454"
-         style="text-align:center;text-anchor:middle;stroke-width:0.08711743"
+         x="88.320877"
+         y="140.66968"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0664666"
          id="tspan1530">der Zürich Versicherung</tspan><tspan
          sodipodi:role="line"
-         x="88.317848"
-         y="143.96924"
-         style="text-align:center;text-anchor:middle;stroke-width:0.08711743"
+         x="88.320877"
+         y="143.32835"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0664666"
          id="tspan1532">bzw. der Armee, bzw.</tspan><tspan
          sodipodi:role="line"
-         x="88.317848"
-         y="147.45393"
-         style="text-align:center;text-anchor:middle;stroke-width:0.08711743"
-         id="tspan2396">Terror-Basis der Versicherungs</tspan><tspan
+         x="88.320877"
+         y="145.98701"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0664666"
+         id="tspan2396">Basis des <tspan
+   style="font-weight:bold;stroke-width:0.0664666"
+   id="tspan3798">Terror-Netzwerk</tspan> bestehend</tspan><tspan
          sodipodi:role="line"
-         x="88.317848"
-         y="150.93864"
-         style="text-align:center;text-anchor:middle;stroke-width:0.08711743"
-         id="tspan2398">Agenten</tspan></text>
+         x="88.320877"
+         y="148.64568"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0664666"
+         id="tspan2398">aus Versicherungs Agenten</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.27507302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1689"
@@ -410,8 +512,8 @@
          style="stroke-width:0.14555946"
          id="tspan2158">Suizid getrieben werden soll</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.49861926;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 133.02816,170.32213 0,26.84385 H 74.548153 v 15.95122"
+       style="fill:none;stroke:#deaa87;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4028)"
+       d="m 133.03837,170.33219 v 25.61983 H 74.538073 v 15.22388"
        id="path2373"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -3301,40 +3403,7 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
            height="167.68326"
            x="830.03217"
            y="177.93059" /></flowRegion><flowPara
-         id="flowPara2201"></flowPara></flowRoot>    <rect
-       style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.2903406;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2203"
-       width="21.111031"
-       height="14.956629"
-       x="126.46259"
-       y="134.62924" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.19265056px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07981626"
-       x="137.22072"
-       y="138.27431"
-       id="text2207"><tspan
-         sodipodi:role="line"
-         id="tspan2205"
-         x="137.22072"
-         y="138.27431"
-         style="text-align:center;text-anchor:middle;stroke-width:0.07981626">Schweizer</tspan><tspan
-         id="tspan2303"
-         sodipodi:role="line"
-         x="137.22072"
-         y="141.62659"
-         style="text-align:center;text-anchor:middle;stroke-width:0.07981626">Armee</tspan><tspan
-         sodipodi:role="line"
-         x="137.22072"
-         y="144.97887"
-         style="text-align:center;text-anchor:middle;stroke-width:0.07981626"
-         id="tspan2209">Glasfaser</tspan><tspan
-         sodipodi:role="line"
-         x="137.22072"
-         y="148.33116"
-         style="text-align:center;text-anchor:middle;stroke-width:0.07981626"
-         id="tspan2211">Netzwerk</tspan></text>
-    <g
+         id="flowPara2201"></flowPara></flowRoot>    <g
        id="g2371"
        transform="matrix(0.55014602,0,0,0.55014602,5.8375943,70.989551)">
       <rect
@@ -3502,29 +3571,63 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
     <path
        inkscape:connector-curvature="0"
        id="path2301"
-       d="m 131.35897,156.8202 v 6.75977"
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 131.35897,156.93185 2.8e-4,6.64812"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#d38d5f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
     <path
        inkscape:connector-curvature="0"
        id="path2299-2"
-       d="M 110.82196,107.54138 V 118.2878 H 85.132766 v 9.80881"
-       style="fill:none;stroke:#000000;stroke-width:0.55014604;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 110.8405,107.55958 v 9.94559 H 85.114827 v 9.07785"
+       style="fill:none;stroke:#000000;stroke-width:0.52962631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4180)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.36729479px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17754711"
-       x="73.454292"
-       y="228.56099"
+       style="font-style:normal;font-weight:normal;font-size:2.98003364px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22350253"
+       x="73.398048"
+       y="229.0352"
        id="text2377"><tspan
          sodipodi:role="line"
          id="tspan2375"
-         x="73.454292"
-         y="228.56099"
-         style="font-weight:bold;fill:#ff0000;stroke-width:0.17754711">Modem mit SDR für Brainjacking</tspan></text>
+         x="73.398048"
+         y="229.0352"
+         style="font-weight:bold;fill:#ff0000;stroke-width:0.22350253">Modem mit SDR für Brainjacking</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#d38d5f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 116.96128,140.95496 h 9.49195"
        id="path2400"
        inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.32319564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2203"
+       width="23.499962"
+       height="16.649126"
+       x="125.26813"
+       y="133.78299" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.19265056px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07981626"
+       x="137.22072"
+       y="138.27431"
+       id="text2207"><tspan
+         sodipodi:role="line"
+         id="tspan2205"
+         x="137.22072"
+         y="138.27431"
+         style="text-align:center;text-anchor:middle;stroke-width:0.07981626;fill:#ffff00">Schweizer</tspan><tspan
+         id="tspan2303"
+         sodipodi:role="line"
+         x="137.22072"
+         y="141.62659"
+         style="text-align:center;text-anchor:middle;stroke-width:0.07981626;fill:#ffff00">Armee</tspan><tspan
+         sodipodi:role="line"
+         x="137.22072"
+         y="144.97887"
+         style="text-align:center;text-anchor:middle;stroke-width:0.07981626;fill:#ffff00"
+         id="tspan2209">Glasfaser</tspan><tspan
+         sodipodi:role="line"
+         x="137.22072"
+         y="148.33116"
+         style="text-align:center;text-anchor:middle;stroke-width:0.07981626;fill:#ffff00"
+         id="tspan2211">Netzwerk</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.37468243px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05936706"
@@ -3550,7 +3653,7 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
        inkscape:connector-curvature="0"
        id="path2799"
        d="m 64.019838,177.529 h 65.901292 v -6.98337"
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#d38d5f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
        sodipodi:nodetypes="ccc" />
     <path
        sodipodi:nodetypes="ccc"
@@ -12506,8 +12609,8 @@ IiIiIqIN4f8DaxpXPv5LF1sAAAAASUVORK5CYII=
          y="246.06052"
          style="stroke-width:0.26458332"></tspan></text>
     <image
-       y="280.68707"
-       x="0.047557995"
+       y="280.63849"
+       x="-0.34857377"
        id="image2843"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAABpCAYAAACjxE/LAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJztXXlcVdX2X3fgMgkiIgoKlooT5gjiM4fUVBrEnH7vpdkTSz85ZqWZLy2zXpp+TMs0U3HKrMwh
@@ -16560,7 +16663,7 @@ Dyj71axjAAAAAElFTkSuQmCC
        width="74.805054" />
     <image
        y="187.17265"
-       x="34.249069"
+       x="38.270977"
        id="image2865"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQAAAAJ2CAIAAACPWrjyAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
 nOzd2bNk13Um9m+tvc85mXeqCUBhIEbOoKiBGthSS26HpW67oxWOdtgRDj/7wS/939ivfuwnd7Qc
@@ -19657,8 +19760,8 @@ QmCC
 "
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
-       height="13.924351"
-       width="28.290739" />
+       height="16.173309"
+       width="32.86005" />
     <image
        y="364.12241"
        x="-19.009573"
@@ -34214,29 +34317,29 @@ kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkv6f/A9t
 "
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
-       height="13.909832"
-       width="24.901518" />
+       height="16.156445"
+       width="28.923428" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.97202945px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.09930074;"
-       x="4.0362787"
-       y="98.518532"
+       style="font-style:normal;font-weight:normal;font-size:3.97202945px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.09930074"
+       x="3.2879241"
+       y="98.892708"
        id="text3459"><tspan
          sodipodi:role="line"
          id="tspan3457"
-         x="4.0362787"
-         y="98.518532"
-         style="stroke-width:0.09930074;fill:#ff0000;">Die Schweizer Armee hat</tspan><tspan
+         x="3.2879241"
+         y="98.892708"
+         style="fill:#ff0000;stroke-width:0.09930074">Die Schweizer Armee hat</tspan><tspan
          sodipodi:role="line"
-         x="4.0362787"
-         y="102.68916"
-         style="stroke-width:0.09930074;fill:#ff0000;"
-         id="tspan3461">das hier VERSIFFT oder macht</tspan><tspan
+         x="3.2879241"
+         y="103.06334"
+         style="fill:#ff0000;stroke-width:0.09930074"
+         id="tspan3461">das hier VERSIFFT oder nimmt</tspan><tspan
          sodipodi:role="line"
-         x="4.0362787"
-         y="106.85979"
-         style="stroke-width:0.09930074;fill:#ff0000;"
-         id="tspan3463">Geschäfte mit NSA / CIA</tspan></text>
+         x="3.2879241"
+         y="107.23397"
+         style="fill:#ff0000;stroke-width:0.09930074"
+         id="tspan3463">Mordaufträge vom NSA / CIA an</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.02608299px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.55065209;"
@@ -34249,8 +34352,8 @@ kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkv6f/A9t
          y="108.57999"
          style="stroke-width:0.55065209;fill:#ff0000;">⇨</tspan></text>
     <image
-       y="233.95901"
-       x="70.216682"
+       y="242.17152"
+       x="52.787994"
        id="image3477"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABB4AAAFUCAYAAACDXf+eAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3Xd4VFX6wPHvTHrvCYGQhNBC7733JihWVMReFstv7WXdXcuqa6+ooCJYEBERBOkltNAT0khC
@@ -35442,11 +35545,11 @@ Nf8PuVeOrVDj1NUAAAAASUVORK5CYII=
 "
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
-       height="14.5358"
-       width="45.060978" />
+       height="30.48476"
+       width="75.862335" />
     <image
-       y="229.65106"
-       x="101.7643"
+       y="233.1368"
+       x="105.89993"
        id="image3488"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASoAAABfCAYAAABfoorpAAAABHNCSVQICAgIfAhkiAAAGUxJREFU
 eJztnXlYU1fex78xLJKAsgjI4srWKoqKdioVtbVqGdSptaPYzriMrVOpfcdOxxk7tbW2ddrRmda+
@@ -35566,8 +35669,8 @@ AsHpIUJFIBCcHiJUBALB6SFCRSAQnB4iVAQCwen5f+SHl7YMHnBQAAAAAElFTkSuQmCC
 "
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
-       height="4.307951"
-       width="13.513363" />
+       height="9.0347185"
+       width="22.750401" />
     <rect
        style="opacity:1;vector-effect:none;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.19999998, 0.29999999999999999;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3503"
@@ -35594,5 +35697,32 @@ AsHpIUJFIBCcHiJUBALB6SFCRSAQnB4iVAQCwen5f+SHl7YMHnBQAAAAAElFTkSuQmCC
          x="-240.06744"
          y="108.32751"
          style="fill:#ff0000;stroke-width:0.40353101">⇨</tspan></text>
+    <path
+       style="fill:#d38d5f;fill-opacity:1;stroke:#d38d5f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 136.96815,150.28702 v 6.75977"
+       id="path4090"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4092"
+       d="m 136.96505,156.91303 -5.59148,-0.007"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#d38d5f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.76388884px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="10.31875"
+       y="164.31146"
+       id="text4212"><tspan
+         sodipodi:role="line"
+         id="tspan4210"
+         x="10.31875"
+         y="164.31146"
+         style="stroke-width:0.26458332;fill:#ff0000;">Kriegsdrogen wie Kokain</tspan><tspan
+         sodipodi:role="line"
+         x="10.31875"
+         y="166.51633"
+         style="stroke-width:0.26458332;fill:#ff0000;"
+         id="tspan4214">die Kaltblütig und Ingorant machen</tspan></text>
   </g>
 </svg>
