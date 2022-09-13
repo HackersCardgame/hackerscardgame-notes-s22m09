@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0734524"
-     inkscape:cx="1026.8648"
-     inkscape:cy="447.18417"
+     inkscape:cx="550.83494"
+     inkscape:cy="376.32042"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -289,31 +289,36 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="76.092133"
-       y="181.38376"
+       style="font-style:normal;font-weight:normal;font-size:2.57465339px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21455443"
+       x="77.438538"
+       y="181.05087"
        id="text1637-6"><tspan
          sodipodi:role="line"
-         x="76.092133"
-         y="181.38376"
-         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan1633-2">Game dass nur</tspan><tspan
+         x="77.848373"
+         y="181.05087"
+         style="text-align:center;text-anchor:middle;stroke-width:0.21455443"
+         id="tspan2541">Game dass nur Game </tspan><tspan
          sodipodi:role="line"
-         x="76.092133"
-         y="185.08792"
-         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan1635-9">Game ist (SpamNPC)</tspan></text>
+         x="77.848373"
+         y="183.75426"
+         style="text-align:center;text-anchor:middle;stroke-width:0.21455443"
+         id="tspan2549">ist um die Suche nach </tspan><tspan
+         sodipodi:role="line"
+         x="77.438538"
+         y="186.45764"
+         style="text-align:center;text-anchor:middle;stroke-width:0.21455443"
+         id="tspan2551">den Tätern zu erschweren</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="64.101776"
-       y="194.91779"
+       style="font-style:normal;font-weight:normal;font-size:7.13589334px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17839733"
+       x="68.177704"
+       y="195.14174"
        id="text1641-1"><tspan
          sodipodi:role="line"
          id="tspan1639-2"
-         x="64.101776"
-         y="194.91779"
-         style="stroke-width:0.26458332">100x</tspan></text>
+         x="68.177704"
+         y="195.14174"
+         style="stroke-width:0.17839733">100x</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2127"
@@ -3457,8 +3462,8 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
        d="M 188.98141,65.207841 V 84.741595 H 142.28619 V 102.57106"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 226.05008,179.87922 v 39.9117 H 123.04654 v 36.42595"
+       style="fill:none;stroke:#000000;stroke-width:1.01587117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 229.34561,179.87922 v 39.9117 H 123.04654 v 36.42595"
        id="path2373"
        inkscape:connector-curvature="0" />
     <text
@@ -3498,5 +3503,22 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRCEjxX/H9bTG8SZNm+lAAAAAElFTkSuQmCC
          y="111.268"
          style="stroke-width:0.10791145"
          id="tspan2408">zwischen Opfer und Täter verschleiern</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 103.64437,186.08451 h 74.68309 v -12.69366 h 18.1162"
+       id="path2410"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2799"
+       d="m 103.90922,192.42428 119.78872,0 0,-12.69366"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="ccc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       style="fill:none;stroke:#000000;stroke-width:0.98599523;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 105.75677,198.69861 h 140.85625 v -18.7937"
+       id="path2801"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
