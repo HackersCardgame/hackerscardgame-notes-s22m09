@@ -36,6 +36,10 @@ also wenn das UPC-Management-API die computer hackt dann kann die UPC auch auf d
 
 dann wäre die frage "sunrise" und terrornetzwerk der schweizer armee, urs blum hatte einen sunrise anschluss vor 20 jahren
 
+dann vor paar jahern hat mir der alte upc support die signae gesagt, da war es um 63DBµV, also schon knapp, also vielleicht hat jemand in der nachbarschaft zusätzlich die dosen in der stammleitung sabotiert oder aus egoismus eine dose genommen mit weniger auskoppelungsdämpfung
+
+also da müsste man jetzt rasch in alle modem daten schauen udn dann vermutlcih bei mir auf ca 68dbµV schalten, das können die von der UBR aus, dann haben die allenfalls die signale auf der UBR remote gedämpft oder einen geownten neuralink eines second level supporters dazu getrieben diese zu senken weil die änderung würde vermutlich in den logfiles stehen.
+
 
 
 
