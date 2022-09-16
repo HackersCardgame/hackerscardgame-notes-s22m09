@@ -46,3 +46,10 @@ da ich selber als first und second level support mit kabel modem gearbeitet habe
 
 da machen wir somit einen artikel https://marclandolt.ch/upc.html
 
+dann mit der funktion den pegel runter zu stellen nehmen die modem kunden vom netz, das wäre vermutlcih der konfiurations-server von cisco der die miesten  geräte zugreift bei UPC
+
+also die Schweizer armee hockt im Configserver von cisco
+
+
+
+
