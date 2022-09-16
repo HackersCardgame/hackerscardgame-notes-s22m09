@@ -43,3 +43,6 @@ also da müsste man jetzt rasch in alle modem daten schauen udn dann vermutlcih 
 nach cisco ubr/cmts handbuch kann man pro leitung den sendepegel einstellen
 
 da ich selber als first und second level support mit kabel modem gearbeitet habe, müssen die mich mit solchen traumabased mindcontrol loops die mich destabilisieren unten halten weil das sonst wie hier gerade auffligt
+
+da machen wir somit einen artikel https://marclandolt.ch/upc.html
+
