@@ -22,6 +22,7 @@ System-Relevant:
 ===============
 
 * Internet Knoten wie zB. Equinix Zürich Hardbrücke
+--> da wäre es allenfalls auch Sinnvoll wenn man zusätzlich zum 100kW Diesel auf dem Dach noch eine dedizierte Solar-Panel-Farm hätte, falls es so schlimm wird wie in den 1970er die Ölkrise
 
 * Internet Service Provider und Telefon Service Provider
 => Dazu extra Abschnitt [Sunrise-UPC], gleichzeitig muss auch von CyberWar ausgegangen werden, unten beschrieben
@@ -52,7 +53,7 @@ TODO:
 
 SCHLECHT:
 ========
-Dass Firmen wie die Sunrise-UPC aus Profit-Gründen den Support nach Kosovo-Albanien ausgelagert haben ist mässig toll. Somit ist im Kriesenfall UPC nicht mehr brauchbar weil man keine Hilfe mehr bekommt. Temporär umgehen könnte man das Problem in dem man den Lokalen HFC Support (die Elektriker die das mit den Kabeln machen) als First-Level-Support verwenden
+Dass Firmen wie die Sunrise-UPC aus Profit-Gründen den Support nach Kosovo-Albanien ausgelagert haben ist mässig toll. Somit ist im Kriesenfall UPC nicht mehr brauchbar weil man keine Hilfe mehr bekommt. Temporär umgehen könnte man das Problem in dem man den Lokalen HFC Support (die Elektriker die das mit den Kabeln machen) als First-Level-Support verwendet
 
 
  ____                   _                _   _ ____   ____
@@ -79,7 +80,7 @@ Die neue Sunrise-UPC ist ein riesen Schlammassel:
 => https://www.cisco.com/c/en/us/products/cloud-systems-management/configuration-engine/index.html
 also je nach dem wie es mit dem Moralischen Kompass, dem Moralischen Wertesystem bzw. mit dem Normativen Management bei der Armee aussieht. Selbst wenn der moralische Kompass der Armee über jeden Zweifel erhabne ist und die hätten das eingekauft wären wir Schach matt. Ich persönlich traue der Schweizer Armee keinen Millimeter weit.
 
-- Rechtsfälle bringen nichts, mit diesen Mitteln der Armee können Zeugen vom Internet getrennt werden in dem die einfach den Sendepegel für diesen Strang herunter schalten. Das kann man auf der UBR einstellen. Zeugen machen aber Sinn, denn Zeugen sind auch Analysten und sehen vielleicht kommende Probleme rechtzeitig so dass man Dinge verhindern kann. 
+- Rechtsfälle bringen nichts, mit diesen Mitteln der Armee können Zeugen vom Internet getrennt werden in dem die einfach den Sendepegel für diesen Strang herunter schalten. Das kann man auf der UBR einstellen. Zeugen machen aber Sinn, denn Zeugen sind oft auch Analysten oder Hacker und sehen vielleicht kommende Probleme rechtzeitig so dass man Dinge verhindern kann. 
 
 - Allenfalls überträgt sich Malware vom UPC-Management-API wo der Frist und Second Level drüber zugreift
  * stimmt das wäre das Büro in Kosovo gehackt
