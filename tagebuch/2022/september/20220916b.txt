@@ -40,6 +40,6 @@ dann vor paar jahern hat mir der alte upc support die signae gesagt, da war es u
 
 also da müsste man jetzt rasch in alle modem daten schauen udn dann vermutlcih bei mir auf ca 68dbµV schalten, das können die von der UBR aus, dann haben die allenfalls die signale auf der UBR remote gedämpft oder einen geownten neuralink eines second level supporters dazu getrieben diese zu senken weil die änderung würde vermutlich in den logfiles stehen.
 
-
+nach cisco ubr/cmts handbuch kann man pro leitung den sendepegel einstellen
 
 
