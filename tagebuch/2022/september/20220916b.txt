@@ -50,6 +50,6 @@ dann mit der funktion den pegel runter zu stellen nehmen die modem kunden vom ne
 
 also die Schweizer armee hockt im Configserver von cisco
 
-
+dann müssen die logischerweise schauen, dass die nicht andere kunden abschalten, also wäre meine wisi dose die auskoppelungsdämpfung eher zu gross
 
 
