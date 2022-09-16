@@ -31,7 +31,7 @@ Bricht uns das Internet weg haben wir als Schweiz ein Problem
 
 - Finanzmärkte brechen zusammen weil wir nicht mehr an die Börse angeschlossen wären
 - Bricht Corona, Cholera (wie jetzt in Syrien) aus würde Patienten Tracking nicht mehr funktionieren
-- Menschen die nicht intelligent sind müssen psychisch stabil gehalten werden, dazu braucht man auch Kommunikations-Mittel
+- Menschen die nicht intelligent oder zu intelligent sind müssen psychisch stabil gehalten werden, dazu braucht man auch Kommunikations-Mittel
 
 GEFAHREN:
 Dieser Winter ist das Risiko, dass die ganze Stromversorgung in Europa kollabiert relativ gross
@@ -53,7 +53,7 @@ TODO:
 
 SCHLECHT:
 ========
-Dass Firmen wie die Sunrise-UPC aus Profit-Gründen den Support nach Kosovo-Albanien ausgelagert haben ist mässig toll. Somit ist im Kriesenfall UPC nicht mehr brauchbar weil man keine Hilfe mehr bekommt. Temporär umgehen könnte man das Problem in dem man den Lokalen HFC Support (die Elektriker die das mit den Kabeln machen) als First-Level-Support verwendet
+Dass Firmen wie die Sunrise-UPC aus Profit-Gründen den Support nach Kosovo-Albanien ausgelagert haben ist mässig toll. Somit ist im Kriesenfall UPC nicht mehr brauchbar weil man keine Hilfe mehr bekommt. Temporär umgehen könnte man das Problem in dem man den Lokalen HFC Support als First-Level-Support verwendet. HFC Support sind die Elektriker die das mit den Kabeln machen
 
 
  ____                   _                _   _ ____   ____
@@ -65,28 +65,30 @@ Dass Firmen wie die Sunrise-UPC aus Profit-Gründen den Support nach Kosovo-Alba
 
 Die neue Sunrise-UPC ist ein riesen Schlammassel:
 
-- Der First Level Support ist jetzt im Kosovo-Albanien. Für SVP Wähler "perfekt" um den Konflikt zwischen rechten Schweizern und Kosovo-Albanern zu schüren wenn etwas nicht geht (Thema aufgebrachte Kunden)
+- Der First Level Support ist jetzt im Kosovo-Albanien. Meldet sich ein SVP Wähler beim Support und wird mit einem Kosovo-Albaner verbunden wären Konflikte zu erwarten. Bzw. würde allenfalls so der Hass auf Ausländer grösser was dann schlimmsten Fall bei der nächsten Begegnung mit einem Kosovo-Albanern oder generell mit einem Ausländer entladen würde (Thema aufgebrachte Kunden)
 
 - vor ca. 3 Jahren hat mir der alte UPC Support gesagt das Signal sei auf 63DBµV, also eher knapp
 
-- jetzt haben die Mitarbeiter im Kosovo überhaupt keinen Zugriff mehr auf die Signalwerte, selbst wenn sie helfen möchten können sie das nicht.
+- jetzt haben die Mitarbeiter im Kosovo überhaupt keinen Zugriff mehr auf die Signalwerte, selbst wenn sie helfen möchten können sie das nicht
 --> Also Herumgefluche und Konflikt schon vorprogrammiert
 
-- Dann dürfen die Mitarbeiter auch nicht den Second Level kontaktieren ausser per Mail.
+- Dann dürfen die Mitarbeiter auch nicht den Second Level kontaktieren ausser per Mail
 
 - Ausserdem Sprachbarriere
 
 - Die Schweizer Armee hockt mutmasslich auf dem Konfigurations-Server für die Cisco Geräte vermutlich mit proprietärer Malware vom NSA/CIA wie Vault7 2.0:
-=> https://www.cisco.com/c/en/us/products/cloud-systems-management/configuration-engine/index.html
-also je nach dem wie es mit dem Moralischen Kompass, dem Moralischen Wertesystem bzw. mit dem Normativen Management bei der Armee aussieht. Selbst wenn der moralische Kompass der Armee über jeden Zweifel erhabne ist und die hätten das eingekauft wären wir Schach matt. Ich persönlich traue der Schweizer Armee keinen Millimeter weit.
+also je nach dem wie es mit dem Moralischen Kompass, dem Moralischen Wertesystem bzw. mit dem Normativen Management bei der Armee aussieht. Selbst wenn der moralische Kompass der Armee über jeden Zweifel erhaben ist und die hätten das eingekauft wären wir Schach matt. Ich persönlich traue der Schweizer Armee keinen Millimeter weit.
 
-- Rechtsfälle bringen nichts, mit diesen Mitteln der Armee können Zeugen vom Internet getrennt werden in dem die einfach den Sendepegel für diesen Strang herunter schalten. Das kann man auf der UBR einstellen. Zeugen machen aber Sinn, denn Zeugen sind oft auch Analysten oder Hacker und sehen vielleicht kommende Probleme rechtzeitig so dass man Dinge verhindern kann. 
+- Mit diesen Mitteln der Armee können Zeugen vom Internet getrennt werden in dem die einfach den Sendepegel für diesen Strang herunter schalten. Das kann man auf der UBR einstellen. 
+=> https://www.cisco.com/c/en/us/products/cloud-systems-management/configuration-engine/index.html
+
+- Rechtsfälle bringen nichts, Zeugen machen aber Sinn, denn Zeugen sind oft auch Analysten oder Hacker und sehen vielleicht kommende Probleme rechtzeitig so dass man Dinge verhindern kann. 
 
 - Allenfalls überträgt sich Malware vom UPC-Management-API wo der Frist und Second Level drüber zugreift
  * stimmt das wäre das Büro in Kosovo gehackt
- * stimmt das wären auch die Techniker die vor Ort kommen gehackt (das sind ja jeweils so kleine lokale Firmen die das machen)
+ * stimmt das wären auch die HFC Techniker die vor Ort kommen gehackt (das sind ja jeweils so kleine lokale Firmen die das machen)
 
-- Das Arris Modem der UPC hat vermutlich einen SDR drin, der dann auf andere Geräte wie Bluethooth, Wifi, Funk oder worst case Herzschrittmacher oder Neuralink zugreifen könnten, das geht nicht über die öffentliche IP sondern über das Management Netzwerk 10.0.0.0/24 wo auch der Telefonie Teil dran hängt
+- Das Arris Modem der UPC hat vermutlich einen SDR drin, der dann auf andere Geräte wie Bluetooth, Wifi, Funk oder worst case Herzschrittmacher oder Neuralink zugreifen könnten, das geht nicht über die öffentliche IP sondern über das Management Netzwerk 10.0.0.0/24 wo auch der Telefonie Teil dran hängt
 => SDR: https://de.wikipedia.org/wiki/Software_Defined_Radio
 
  ____                 _           _       _        _____    _ _
@@ -96,9 +98,11 @@ also je nach dem wie es mit dem Moralischen Kompass, dem Moralischen Wertesystem
 |_|   |___/\__, |\___|_| |_|\___/|_|\__, |_|\___|   |_|\___|_|_|
            |___/                    |___/
 
-Falls wir als Schweiz -- wo es immer noch viel zu holen gibt -- wirklich zum Ziel der Amerikaner oder der Russen werden, dann ist davon auszugehen, dass man versuchen wird uns gegeninander auszuspielen. Also versuchen wird die Rechten und die Linken dazu zu treiben sich gegenseitig abzuschlachten. Da ist logischerweise nicht nur Psychologische Kriegsführung beteiligt, da ist auch Technik [1] beteiligt und für all diejenigen die bereits Dinge wie Neuralink haben wird da vermutlich Psychologische Kriegsführungs Design-Pattern drauf geladen, die dann im Autopilot Modus den Menschen zum Suizidanten oder Amokläufer umschalten würde. Da hilft eigentlich Trainig schon diesen "Stimmen" zu wiederstehen, noch besser aber wenn man das jeweils grad abschalten kann.
+Falls wir als Schweiz -- wo es immer noch viel zu holen gibt -- wirklich zum Ziel der Amerikaner oder der Russen werden, dann ist davon auszugehen, dass man versuchen wird uns gegeninander auszuspielen. Also versuchen wird die Rechten und die Linken dazu zu treiben sich gegenseitig abzuschlachten. Da ist logischerweise nicht nur Psychologische Kriegsführung beteiligt, da ist auch Technik [1] beteiligt und für all diejenigen die bereits Dinge wie Neuralink haben würden da vermutlich Psychologische Kriegsführungs Design-Pattern drauf geladen, die dann im Autopilot Modus den Menschen zum Suizidanten oder Amokläufer umschalten würden. Da hilft eigentlich Trainig schon diesen "Stimmen" zu wiederstehen, noch besser aber wenn man das jeweils grad abschalten kann.
 
 [1] https://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds
+
+Dann hat es bis zu 30% Drogen Konsumenten in der Schweiz. Erstens wäre zu erwarten, dass dann Lieferungen von Kokain mit zB. Asbest oder sonstigen Giftstoffen verunreinigt würden, zweitens würden Menschen die keine Drogen mehr bekommen ausrasten, Amok oder Suizid laufen. Das selbe ist mit Psychopharmaka. Dann auch Lieferungen mit z.B. Insulin und solchem wären allens ein Problem. Die Schweiz hat es ja nicht mal geschafft Atemschutz-Masken selber zu produzieren bei CORONA.
 
 
 Sorry dass das nciht etwas ist, was einem das Leben leichter macht, und Sie kennen mich alle, ich wäre der erste der dann wenn es zu spät ist oder danach lauthals sagen wird "Ich habs Euch gesagt"
