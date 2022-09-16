@@ -84,7 +84,7 @@ Die neue Sunrise-UPC ist ein riesen Schlammassel:
  * stimmt das wäre das Büro in Kosovo gehackt
  * stimmt das wären auch die Techniker die vor Ort kommen gehackt (das sind ja jeweils so kleine lokale Firmen die das machen)
 
-- Das Arris Modem der UPC hat vermutlich einen SDR drin, der dann auf andere Geräte wie Bluethooth, Wifi, Funk oder worst case Herzschrittmacher zugreifen könnten, das geht nicht über die öffentliche IP sondern über das Management Netzwerk 10.0.0.0/24 wo auch der Telefonie Teil drauf hockt.
+- Das Arris Modem der UPC hat vermutlich einen SDR drin, der dann auf andere Geräte wie Bluethooth, Wifi, Funk oder worst case Herzschrittmacher oder Neuralink zugreifen könnten, das geht nicht über die öffentliche IP sondern über das Management Netzwerk 10.0.0.0/24 wo auch der Telefonie Teil drauf hockt.
 => SDR: https://de.wikipedia.org/wiki/Software_Defined_Radio
 
 Sag das dem dem (s)Meili falls das bei Euch allenfalls auch gemacht würde ohne Euer wissen, Meili weiss dass ich gut bin, hab ja vor Dir schon in diesen Dingen gearbeitet sowohl für Ziknet als auch Yetnet. Netzwerk Security ist nicht Dein Job und Deine Aufgabe und nicht Deine Verantwortung falls da mal irgendjemand dumm kommen würde. Da müsste (s)maili dann schauen. wenn Du das Meili gemeldet hast bist Du sowieso aus der Verantwortung raus was Dein grosser Bruder so heraus gefunden hat. Kannst (s)meili grad diesen Text weiterleiten und ein Gruss von mir.
