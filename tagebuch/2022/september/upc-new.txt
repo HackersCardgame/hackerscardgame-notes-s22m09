@@ -9,7 +9,7 @@ Guten Tag
 |_____/_/\_\ .__/ \___|_|   \__| |_____\___| \_/ \___|_|
            |_| 
 
-um es vor weg zu nehmen, alle die denken ich spönne müssen gar nicht weiter lesen, alle die jünger sind als ich oder schlecht sind in digitaler und psychologischer Selbstverteidigung lassen das Lesen besser auch.
+um es vor weg zu nehmen, alle die denken ich spönne müssen gar nicht weiter lesen, alle die jünger sind als ich oder schlecht sind in digitaler und psychologischer Selbstverteidigung lassen das Lesen besser auch. Das sind alles Baustellen die ich alleine sowiso nicht lösen kann, ich werde auch Dinge vergessen haben, also wenn Studenten sich ihren Rang verdienen möchten wären das allenfalls etwas worüber man nachdenken darf / soll.
 
 
  ____             _    _
@@ -24,6 +24,7 @@ System-Relevant:
 * Internet Knoten wie Equinix Zürich Hardbrücke
 
 * Internet Service Provider und Telefon Service Provider
+=> Dazu extra Abschnitt [Sunrise-UPC], gleichzeitig muss auch von CyberWar ausgegangen werden, unten beschrieben
 
 Bricht uns das Internet weg haben wir als Schweiz ein Problem
 
@@ -31,21 +32,69 @@ Bricht uns das Internet weg haben wir als Schweiz ein Problem
 - Bricht Corona, Cholera (wie jetzt in Syrien) aus würde Patienten Tracking nicht mehr funktionieren
 - Menschen die nicht intelligent sind müssen psychisch stabil gehalten werden, dazu braucht man auch Kommunikations-Mittel
 
-TODO:
-System Relevante Personen wie Ärzte, Polizei, Feuerwehr ... sollten mindestens DualWAN haben. Wer es sich leisten kann kann sich auch wie das UKBB von 4 Himmelsrichtungen mit Glasfaser anschliessen lassen. Da würde ich aber anders als die UKBB nicht alles von Swisscom nehmen sondern zwischen verschiedenen Anbietern diversifizieren
+GEFAHREN:
+Dieser Winter ist das Risiko, dass die ganze Stromversorgung in Europa kollabiert relativ gross
+=> https://media.ccc.de/v/32c3-7323-wie_man_einen_blackout_verursacht
 
-Kann ich mir selber mit IV nicht leisten, aber z.B. Starlink wäre allenfalls auch eine Option als eine der Leitungen am DualWAN Router
+
+
+TODO:
+====
+* System Relevante Personen wie Ärzte, Polizei, Feuerwehr ... sollten mindestens DualWAN haben. Wer es sich leisten kann kann sich auch wie das UKBB von 4 Himmelsrichtungen mit Glasfaser anschliessen lassen. Da würde ich aber anders als die UKBB nicht alles von Swisscom nehmen sondern zwischen verschiedenen Anbietern diversifizieren
+
+* Ich bin zwar Informatiker und sehe mich für die anderen Dinge nicht als prädestiniert, dennoch wäre es wichtig, daran zu denken dass Pumpwerke Strom brauchen, allenfalls macht es da auch Sinn wenn vor Ort Solar installiert würde, dann könnte während des Tages Wasser ins Reservoire pumpen
+
+* Kann ich mir selber mit IV nicht leisten, aber z.B. Starlink wäre allenfalls auch eine Option als eine der Leitungen am DualWAN Router. Da ist aber allenfalls auch zu erwarten, dass USA das per User abschalten könnte. Auch Elon Musk müsste sich dem Patriot Act beugen
+
+* Besser Laptop als Desktop, der braucht weniger Strom und hat Batterie. Ich selber habe mir ein faltbares Solar-Panel und ein Akku geleistet und wäre solange die Handy-Netze noch laufen weiterhin erreichbar auch wenn der Strom ganz ausfällt
+
+
 
 SCHLECHT:
-Firmen wie die Sunrise-UPC die aus Profit-Gründen den Support nach Kosovo-Albanien ausgelagert haben sind mässig toll. Somit ist im Kriesenfall UPC nicht mehr brauchbar weil man keine Hilfe mehr bekommt. Temporär umgehen könnte man das in dem man den Lokalen HFC Support (die Elektriker die das mit den Kabeln machen) als First-Level-Support verwenden würde
+========
+Dass Firmen wie die Sunrise-UPC die aus Profit-Gründen den Support nach Kosovo-Albanien ausgelagert haben ist mässig toll. Somit ist im Kriesenfall UPC nicht mehr brauchbar weil man keine Hilfe mehr bekommt. Temporär umgehen könnte man das Problem in dem man den Lokalen HFC Support (die Elektriker die das mit den Kabeln machen) als First-Level-Support verwenden würde
+
+
+ ____                   _                _   _ ____   ____
+/ ___| _   _ _ __  _ __(_)___  ___      | | | |  _ \ / ___|
+\___ \| | | | '_ \| '__| / __|/ _ \_____| | | | |_) | |
+ ___) | |_| | | | | |  | \__ \  __/_____| |_| |  __/| |___
+|____/ \__,_|_| |_|_|  |_|___/\___|      \___/|_|    \____|
+
+
+Die neue Sunrise-UPC ist ein riesen Schlammassel:
+
+- Der First Level Support ist jetzt ims Kosovo-Albanien. Für SVP Wähler "perfekt" um den Konflikt zwischen rechten Schweizern und Kosovo-Albanern zu schüren wenn etwas nicht geht (Thema aufgebrachte Kunden)
+
+- vor ca. 3 Jahren hat mir der alte UPC Support gesagt das Signal sei auf 63DBµV, also eher knapp
+
+- jetzt haben die Mitarbeiter im Kosovo überhaupt keinen Zugriff mehr auf die Signalwerte, selbst wenn sie helfen möchten können sie das nicht. 
+
+- Also Herumgefluche und Konflikt schon vorprogrammiert. 
+
+- Dann dürfen die Mitarbeiter auch nicht den Second Level kontaktieren ausser per Mail.
+
+- Ausserdem Sprachbarriere
+
+- Die Schweizer Armee hockt mutmasslich auf dem Konfigurations-Server für die Cisco Geräte vermutlich mit proprietärer Malware vom NSA/CIA wie Vault7 2.0:
+=> https://www.cisco.com/c/en/us/products/cloud-systems-management/configuration-engine/index.html
+also je nach dem wie es mit dem Moralischen Kompass, dem Moralischen Wertesystem bzw. mit dem Normativen Management bei der Armee aussieht. Selbst wenn der moralische Kompass der Armee über jeden Zweifel erhabne ist und die hätten das eingekauft wären wir Schach matt.
+
+- Rechtsfälle bringen nichts, mit diesen Mitteln der Armee können Zeugen vom Internet getrennt werden in dem die einfach den Sendepegel für diesen Strang herunter schalten. Das kann man auf der UBR einstellen. Zeugen machen aber Sinn, denn Zeugen sind auch Analysten und sehen vielleicht kommende Probleme rechtzeitig so dass man Dinge verhindern kann.
+
+- Allenfalls überträgt sich Malware vom UPC-Management-API wo der Frist und Second Level drüber zugreift
+ * stimmt das wäre das Büro in Kosovo gehackt
+ * stimmt das wären auch die Techniker die vor Ort kommen gehackt (das sind ja jeweils so kleine lokale Firmen die das machen)
+
+- Das Arris Modem der UPC hat vermutlich einen SDR drin, der dann auf andere Geräte wie Bluethooth, Wifi, Funk oder worst case Herzschrittmacher zugreifen könnten, das geht nicht über die öffentliche IP sondern über das Management Netzwerk 10.0.0.0/24 wo auch der Telefonie Teil drauf hockt.
+=> SDR: https://de.wikipedia.org/wiki/Software_Defined_Radio
 
 
 
-Out-gesourced'er Frist Level Support wie z.B. UPC würde nicht mehr funktionieren, UPC hat da um mehr Gewinn erzielen zu können das System destabilisiert.
+
+Sorry dass das etwas ist, was einem das Leben nicht gerade einfacher macht, aber schlussendlich ist das der Job von Meili und nicht von Dir.
 
 
-
-=> für System Relevante Personen wie Ärzte ist etwas wie Dual Wan zu empfehlen, bzw. wer es sich leisten kann kann sich auch wie die UKBB von 4 Himmelsrichtungen mit Glasfaser anschliessen lassen, da würde ich aber nicht wie die UKBB alls nur Swisscom nehmen sondern auch diversifizieren
 
 
 
