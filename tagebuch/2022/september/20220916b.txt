@@ -30,4 +30,8 @@ dann organisatorisch wird man in den kosovo in den first level verbunden, die d√
 
 somit die die montag wegen den signalen kommen sind auch zu schulen und dhimmas
 
+dann first level hat keine m√∂glichkeit auf die signale zu schauen, der schweizer second level support hat da aber uach auf das UPC-API zugriff und sieht die signale
+
+also wenn das UPC-Management-API die computer hackt dann kann die UPC auch auf das neuralink der mitarbeiter zugreifen in der schweiz zugreifen
+
 
