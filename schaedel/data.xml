@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<splashcontent>
+<site>
+<sitename>Kantonsspital Aarau</sitename>
+<addr0>Kantonsspital Aarau AG</addr0>
+<addr1>Institut für Radiologie</addr1>
+<addr2>Tellstrasse, CH-5001 Aarau</addr2>
+<phone>+41 (0) 62 838 41 41</phone>
+<webaddr>www.ksa.ch</webaddr>
+<image>null</image>
+</site>
+<viewer>
+<text>SELECTVIEWERS</text>
+<action>fscommand\RunViewer0.exe</action>
+</viewer>
+<viewer>
+<text>Clarity English</text>
+<action>fscommand\RunViewer0.exe</action>
+</viewer>
+<viewer>
+<text>GE Centricity Viewer</text>
+<action>fscommand\RunViewer1.exe</action>
+</viewer>
+<button>
+<label>disabled</label>
+<action>null</action>
+</button>
+<button>
+<label>BUTTON_DICOM_STUDIES</label>
+<action></action>
+</button>
+<language>
+<lang code="ca" file="CDXDATA\launchpad_data\locale_ca.xml">Català</lang>
+</language>
+<language>
+<lang code="de" file="CDXDATA\launchpad_data\locale_de.xml">Deutsch</lang>
+</language>
+<language>
+<lang code="en" file="CDXDATA\launchpad_data\locale_en.xml">English</lang>
+</language>
+<language>
+<lang code="es" file="CDXDATA\launchpad_data\locale_es.xml">Español</lang>
+</language>
+<language>
+<lang code="fr" file="CDXDATA\launchpad_data\locale_fr.xml">Français</lang>
+</language>
+<language>
+<lang code="hu" file="CDXDATA\launchpad_data\locale_hu.xml">Magyar</lang>
+</language>
+<language>
+<lang code="it" file="CDXDATA\launchpad_data\locale_it.xml">Italiano</lang>
+</language>
+<language>
+<lang code="ja" file="CDXDATA\launchpad_data\locale_ja.xml">日本語</lang>
+</language>
+<language>
+<lang code="pt" file="CDXDATA\launchpad_data\locale_pt.xml">Português</lang>
+</language>
+<language>
+<lang code="zh" file="CDXDATA\launchpad_data\locale_zh.xml">中文</lang>
+</language>
+</splashcontent>

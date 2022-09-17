@@ -1,0 +1,8 @@
+[autorun]
+ICON=AutoRun.exe,0
+OPEN=AutoRun.exe
+DVLANG=da-dk;de-de;el-gr;es-es;fr-fr;hu-hu;it-it;ja-jp;ko-kr;nl-nl;pl-pl;pt-pt;ru-ru;sv-se;tr-tr;zh-cn;zh-tw;en-us
+EXTRACT=dv31\dicomvwr.cab;dv31\%DVLANG%\dvlang.cab
+VIEWERDIR=%TEMP%
+LEGACY=dcmvwr\dcmvwr.exe
+LINKTOOL=misc\BatchRun.exe
