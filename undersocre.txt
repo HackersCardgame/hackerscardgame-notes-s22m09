@@ -1,0 +1,57 @@
+_Underscore - deep dive im Internet, Part 1
+
+* Ausserirdische
+-> denke ich nicht, wenn ab 1950 Neurologie Experimente [1] vom CIA gemacht wurden, dann musste man einen Sündenbock haben wenn etwas auffliegen würde. Logischerweise wären das die Ausserirdischen gewesen
+
+* Schwurbler-Bashing
+-> positives: Jüngere würden da weniger rein geraten
+-> negatives: es destabilisiert diese Menschen zusätzlich, da macht es Sinn diesem Menschen wissenschaftliches Material zu geben, so dass sie sich nicht komplett in einer Verschwörungstheorie verrennen, würden dann aber noch mehr zur Zielscheibe wenn es nicht mehr wie eine Verschwörungstheorie tönt
+
+* "misstraut jeder offiziellen Äusserung"
+-> den Menschen sagen, dass man das macht, damit die ganz kleinen nicht so früh in diese Mühlen gerät
+
+* keines dieser Dunkeln Geheimnisse wurde kritisch hinterfragt
+-> zB wenn man sich über Brain-Implanatate informieren möchte [1] dann landet man bei MKULTRA wo von Implantat auf blah Drogen oder blah Medikamente umgeleitet wird. Das selbe mit der Matrix Szene im Film mit der "blauen oder roten" Pille. Also im Thema MKULTRA würde man sich dann 10 Jahre verirren, statt dass man mal die Datenbläter von Neuronexus implantaten oder von Neuralink sichtet.
+
+* Endlich beweise für XYZ
+-> es werden ca. von 1000 Fällen die ähnlich verübt worden 1 Fall geleakt an die Presse. Da stürzt man sich dann als Beweis drauf um seinen Fall zu beweisen, aber diese Öffentlichen Fälle sind so gut vorbereitet dass man gut platt gemacht wird. zB der Fall Mollath (Schizophrenie, Wirtschaftskriminalität, Vergewaltigung) beweist den eigenen Fall dann nicht. Und das Wort Mollath ist selten, da freut sich logischerweise Software für Natural Language Processing darüber
+
+* Denksystem
+1. Blöd
+2. etwas merken
+3. sich in (lange) Verschwörungstehorien verirren
+4. wissenschaftliche Publikationen mit dem was man schon im Alter von 20 Jahren angenommen hat
+5. dann immer die selbe langweilige Fragen "Weshalb sollte man grad dir Marc jr. ein Implantat verpasst haben"
+6a. HDF
+6b. weil illegale Menschen-Experimente in der Schweiz seit den Verdinkindern verübt werden und Psychiatrie-Patienten sind ähnlich rechtelos
+
+* hat man bereits etwas wie ein Neuralink
+-> gäbe es auf all diesen Verschwörungstheorien noch einen zusätzliche "Video-Spur" für den Neuralinnk die dann die Glaubwürdigkeit der Verschwörungstheorie erhöhen würde
+
+* Zeichen in Karten, Popkultur etc finden
+-> ebd. Pattern-matching, Bild-Erkennung, Action-Recognition, EventTrigger, "diverses Unheil". [1] => [2,3,4,5,6,7...] 
+-> Da ist z.B. spannend, dass man technisch mit einem Hexen Ritual wirklich Dinge auslösen könnte, letzter Teil dieses Video mit Statemachine [2], aber das zu lernen wie die Esoteriker macht auch wenig Sinn, weil irgendwo müsste es einen root account geben.
+
+* Pareidolie
+https://de.wikipedia.org/wiki/Pareidolie
+-> ich hätte da eher "Agency Detection" gesagt, agency im sinne von "Sinnhaftigkeit" https://en.wikipedia.org/wiki/Agent_detection
+
+
+* Pädo Eliten
+Viele Eltern haben pädohile Neigungen und da und dort mal eine Regel dem Kind gegenüber übertreten. Somit ist Pizza-Gate das was die Massenmedien hergeben um dies Anzuprangern, aber rechtlich bringt das nicht, man muss den eigenen Fall beweisen. Siehe oben "Endlich Beweise für XYZ"
+
+
+* "... in Zeiten in denen Religion und Staat ..."
+-> da wäre eigentlich das Haupt Problem die jeweilige Armee, aber wenn man das Jüngeren sagt würden die dann noch erschossen werden, siehe oben "misstraut jeder offiziellen Äusserung"
+
+
+
+Quellen:
+(wer findet ich müsse mehr Quellen liefern bitte rasch hin schreiben, aber bitte konkret)
+
+
+[1] "der CIA hat substantiell Neurologie-Forschung finanziert"
+Thieme: Interventionelle Neurophysiologie ISBN: 978-3-13-169871-1
+(das ist ein ziemlich wissenscahftliches Buch)
+
+[2] https://hackaday.com/2017/05/19/sense-all-the-things-with-a-synthetic-sensor/
