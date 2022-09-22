@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="193.53308"
-     inkscape:cy="356.03744"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="519.55748"
+     inkscape:cy="644.52554"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6423,12 +6423,12 @@ gg==
        inkscape:export-ydpi="354.51001"
        inkscape:export-filename="/home/marc/text886.png" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#122d4b;fill-opacity:1;stroke:none;stroke-width:8.86947441;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#122d4b;fill-opacity:1;stroke:none;stroke-width:9.16808701;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect831"
        width="132.491"
-       height="12.948525"
+       height="13.835089"
        x="38.660301"
-       y="90.641068"
+       y="91.24955"
        rx="0"
        ry="0"
        inkscape:export-xdpi="354.51001"
@@ -6449,7 +6449,7 @@ gg==
        xml:space="preserve"
        id="flowRoot837"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-2.6458333,25.70239)"
+       transform="matrix(0.28269889,0,0,0.28269889,-10.009707,21.864634)"
        inkscape:export-xdpi="354.51001"
        inkscape:export-ydpi="354.51001"
        inkscape:export-filename="/home/marc/text886.png"><flowRegion
@@ -6461,7 +6461,7 @@ gg==
            y="126.8054" /></flowRegion><flowPara
          id="flowPara847"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ricasso;-inkscape-font-specification:Ricasso;text-align:center;text-anchor:middle;fill:#ffffff">Currently allegedly <flowSpan
-   style="font-weight:bold;text-anchor:middle;text-align:center"
+   style="font-weight:bold;text-align:center;text-anchor:middle"
    id="flowSpan888">CyberWar</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ricasso;-inkscape-font-specification:Ricasso;text-align:center;text-anchor:middle;fill:#ffffff"
          id="flowPara890">the wizzards are trying to handle the situation, but no promises. Being together in groups of two equalaged would be a good idea at the mement</flowPara><flowPara
@@ -6499,7 +6499,7 @@ gg==
        inkscape:export-filename="/home/marc/text886.png"
        inkscape:export-ydpi="354.51001"
        inkscape:export-xdpi="354.51001"
-       transform="matrix(0.26458333,0,0,0.26458333,1.0259083,26.208629)"
+       transform="matrix(0.28269889,0,0,0.28269889,-6.0865675,22.405534)"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot908"
        xml:space="preserve"><flowRegion
@@ -6522,7 +6522,7 @@ gg==
        xml:space="preserve"
        id="flowRoot928"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,1.0259083,26.019641)"
+       transform="matrix(0.28269889,0,0,0.28269889,-6.0865675,22.203607)"
        inkscape:export-xdpi="354.51001"
        inkscape:export-ydpi="354.51001"
        inkscape:export-filename="/home/marc/text886.png"><flowRegion
@@ -6541,5 +6541,17 @@ gg==
          id="flowPara924"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ricasso;-inkscape-font-specification:Ricasso;text-align:justify;text-anchor:start;fill:#ffffff" /><flowPara
          id="flowPara926"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ricasso;-inkscape-font-specification:Ricasso;text-align:justify;text-anchor:start;fill:#ffffff" /></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ricasso;-inkscape-font-specification:Ricasso;text-align:justify;text-anchor:start;fill:#ffffff" /></flowRoot>    <rect
+       inkscape:export-filename="/home/marc/text886.png"
+       inkscape:export-ydpi="354.51001"
+       inkscape:export-xdpi="354.51001"
+       ry="3.3208406"
+       rx="3.6204979"
+       y="53.474075"
+       x="36.258911"
+       height="175.36035"
+       width="137.48219"
+       id="rect930"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#09213a;stroke-width:5.62563515;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
 </svg>
