@@ -1,5 +1,5 @@
 
-Kinder mit Hacking tools
+## Kinder mit Hacking tools
 
 verhalten mässig toll, weil eine dDOS vorzuführen und dann ein produkt anzubieten ist so ein bisschen wie "wäre ja schlimm wenn dieser webseite etwas passieren würde", also erpressung
 
