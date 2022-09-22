@@ -3,7 +3,7 @@
 
 verhalten mässig toll, weil eine dDOS vorzuführen und dann ein Produkt anzubieten ist so ein bisschen wie "wäre ja schlimm wenn dieser Webseite da etwas passieren würde", also eigentlich Erpressung
 
-Die haben vermutlich alle einen Neuralink, werden mit diesen falschen Verhaltensmustern gefüttert vermutlich von deren Mamis und Papis, also da wäre dann auch vermutlich bitching am laufen, dann dürfte das das Kind "selber" zwischen Knast und Böckchen-machen-für-Mami-und-Papi entschieden. Das ist auch plausibel, denn einer hat auch ein ganz schönes junges Männchen in einem rock gepostet. Also so etwas was Pädo El(s)tern™ haben möchten.
+Die haben vermutlich alle einen Neuralink, werden mit diesen falschen Verhaltensmustern gefüttert vermutlich von deren Mamis und Papis, also da wäre dann auch vermutlich bitching am laufen, dann dürfte das das Kind "selber" zwischen Knast und Böckchen-machen-für-Mami-und-Papi entschieden. Das ist auch plausibel, denn einer hat auch ein ganz schönes junges Männchen in einem Rock gepostet. Also so etwas was Pädo El(s)tern™ haben möchten.
 
 Einige sagen sie können kein Englsich
 also * liebevoll mit Englisch kurs bewerf *
