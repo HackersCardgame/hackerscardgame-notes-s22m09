@@ -1,0 +1,27 @@
+Hallo Patrik
+
+Du bist besser in diesen Dingen als ich.
+
+Ist dies ein plausibler Angriffsvektor:
+
+1. Cisco Configuration Engine der UPC ist von USA gehackt
+2. die setzen einen Filter für ein spezifisches Modem eines Kunden
+4. Das Modem hat zusätzlich etwas was auf Neuralink zugreift
+5. Der Neuralink ist jetzt in einer US Exklave und Punishment Funktion wird eingeschaltet (US Rechtssprechung)
+
+Resultat = bis zu 300'000 Tote UPC Kunden
+
+
+Hallo Ranko
+
+Du bist besser in diesen Dingen als ich.
+
+Ist dies ein plausibler Angriffsvektor:
+
+1. Cisco Configuration Engine der UPC ist von USA gehackt
+2. die setzen einen Filter für ein spezifisches Modem eines Kunden
+3. die UBR meldet dieses somit nicht mehr an das User-Interface für UPC Mitarbeiter
+4. Das Modem hat zusätzlich etwas was auf Neuralink zugreift
+5. Der Neuralink ist jetzt in einer US Exklave und Punishment Funktion wird eingeschaltet (US Rechtssprechung)
+
+Resultat = bis zu 300'000 Tote UPC Kunden
